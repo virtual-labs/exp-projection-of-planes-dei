@@ -371,8 +371,8 @@
   
   #gif6 {
     position: absolute;
-    top: 180px;
-    left: 30px;
+    left: 54px;
+    top: 150px; 
   }
   
   #gif11 {
@@ -416,24 +416,13 @@
     left: 54px;
     top: 150px;
   }
-  
-  #q2gif4 {
-    position: absolute;
-    left: 54px;
-    top: 150px;
-  }
-  
+    
   #gif7 {
     position: absolute;
     left: 54px;
     top: 150px;
   }
-  
-  #q2gif6 {
-    position: absolute;
-    left: 54px;
-    top: 150px;
-  }
+ 
   
   #gif8 {
     position: absolute;
@@ -478,18 +467,6 @@
   }
   
   #gif15 {
-    position: absolute;
-    left: 54px;
-    top: 150px;
-  }
-  
-  #q2gif9 {
-    position: absolute;
-    left: 54px;
-    top: 150px;
-  }
-  
-  #q2gif10 {
     position: absolute;
     left: 54px;
     top: 150px;
@@ -841,7 +818,6 @@
   }
   
   #transbox5 {
-    border: 2px solid black;
     height: 165px;
     width: 25px;
     rotate: 40deg;
@@ -851,7 +827,6 @@
   }
   
   #transbox6 {
-    border: 2px solid black;
     height: 165px;
     width: 25px;
     rotate: 40deg;
@@ -861,50 +836,48 @@
   }
   
   #transbox7 {
-    height: 145px;
+    height: 165px;
     width: 25px;
-    rotate: 69deg;
+    rotate: 40deg;
     position: absolute;
-    left: 527px;
-    top: 180px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox14 {
-    height: 145px;
+    height: 165px;
     width: 25px;
-    rotate: 41deg;
+    rotate: 40deg;
     position: absolute;
-    left: 560px;
-    top: 167px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox15 {
-    height: 145px;
+    height: 165px;
     width: 25px;
-    rotate: 41deg;
+    rotate: 40deg;
     position: absolute;
-    left: 535px;
-    top: 167px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox16 {
-    /* border: 2px solid black; */
-    height: 166px;
-    width: 55px;
+    height: 165px;
+    width: 25px;
     rotate: 40deg;
     position: absolute;
-    left: 662px;
+    left: 677px;
     top: 129px;
   }
   
   #transbox29 {
-    height: 166px;
-    width: 55px;
-    rotate: 55deg;
-  
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 589px;
-    top: 164px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox56 {
@@ -928,21 +901,21 @@
   }
   
   #transbox30 {
-    height: 166px;
-    width: 55px;
-    rotate: 55deg;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 589px;
-    top: 164px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox31 {
-    height: 96px;
-    width: 165px;
-  
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 539px;
-    top: 214px;
+    left: 677px;
+    top: 129px;
   }
   #transbox {
     position: absolute;
@@ -1088,98 +1061,102 @@
   }
   
   #transbox17 {
-    height: 166px;
+    height: 165px;
     width: 25px;
     rotate: 40deg;
     position: absolute;
-    left: 639px;
-    top: 142px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox18 {
-    height: 166px;
+    height: 165px;
     width: 25px;
     rotate: 40deg;
     position: absolute;
-    left: 639px;
-    top: 142px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox19 {
-    height: 166px;
+    height: 165px;
     width: 25px;
-    rotate: 55deg;
+    rotate: 40deg;
     position: absolute;
-    left: 639px;
-    top: 142px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox22 {
-    height: 176px;
-    width: 55px;
-    rotate: 55deg;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 609px;
-    top: 143px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox27 {
-    height: 166px;
+    height: 165px;
     width: 25px;
-    rotate: 67deg;
+    rotate: 40deg;
     position: absolute;
-    left: 644px;
-    top: 130px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox28 {
-    height: 166px;
+    height: 165px;
     width: 25px;
-    rotate: 50deg;
+    rotate: 40deg;
     position: absolute;
-    left: 659px;
-    top: 119px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox26 {
-    height: 166px;
+    height: 165px;
     width: 25px;
-    rotate: 55deg;
+    rotate: 40deg;
     position: absolute;
-    left: 639px;
-    top: 142px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox20 {
-    height: 80px;
-    width: 145px;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 560px;
-    top: 190px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox21 {
-    height: 166px;
-    width: 55px;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 640px;
-    top: 155px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox25 {
-    height: 166px;
-    width: 55px;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 570px;
-    top: 155px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox23 {
-    height: 166px;
-    width: 55px;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 615px;
-    top: 160px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox52 {
@@ -1256,65 +1233,66 @@
   }
   
   #transbox24 {
-    height: 166px;
-  
-    width: 55px;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 615px;
-    top: 160px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox11 {
-    height: 145px;
+    height: 165px;
     width: 25px;
-    rotate: 41deg;
+    rotate: 40deg;
     position: absolute;
-    left: 567px;
-    top: 162px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox12 {
-    height: 145px;
+    height: 165px;
     width: 25px;
-    rotate: 52deg;
+    rotate: 40deg;
     position: absolute;
-    left: 533px;
-    top: 178px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox13 {
-    height: 145px;
+    height: 165px;
     width: 25px;
-    rotate: -37deg;
+    rotate: 40deg;
     position: absolute;
-    left: 530px;
-    top: 178px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox8 {
-    height: 145px;
+    height: 165px;
     width: 25px;
-    rotate: 70deg;
+    rotate: 40deg;
     position: absolute;
-    left: 527px;
-    top: 180px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox9 {
-    height: 145px;
-    width: 45px;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 532px;
-    top: 195px;
+    left: 677px;
+    top: 129px;
   }
   
   #transbox10 {
-    height: 145px;
-    width: 65px;
+    height: 165px;
+    width: 25px;
+    rotate: 40deg;
     position: absolute;
-    left: 230px;
-    top: 195px;
-    z-index: 10;
+    left: 677px;
+    top: 129px;
   }
   
   #twelve {
@@ -1553,6 +1531,12 @@
     top: 150px;
   }
   
+  #twentyfive {
+    position: absolute;
+    left: 54px;
+    top: 150px;
+  }
+  
   #twentysix {
     position: absolute;
     left: 54px;
@@ -1621,8 +1605,8 @@
   
   #thirtyseven {
     position: absolute;
-    left: 54px;
-    top: 150px;
+    top: 90px;
+    left: 0px;
   }
   
   #thirtyeight {
@@ -1951,8 +1935,8 @@
   
   #thirtytwo {
     position: absolute;
-    top: 90px;
-    left: 0px;
+    left: 54px;
+    top: 150px;
   }
   
   #thirtythree {
