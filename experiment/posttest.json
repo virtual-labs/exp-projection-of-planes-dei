@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The angle subtended at the centre of the directing circle is calculated by the formula ____.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(r/R) × 180° ",
+        "b": "(R/r) × 360°",
+        "c": "(r/R) × 360°",
+        "d": "(R/r) × 180°"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "(r/R) × 360°"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "2. The arch length of a cycloid is how many times the radius of a circle generating the cycloid?",
+      "answers": {
+        "a": "4",
+        "b": "8",
+        "c": "2",
+        "d": "Equal"
+      },
+      "explanations": {
+        "b": "8"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Gear tooth is a combination of hypocycloid and epicycloid. ",
+      "answers": {
+        "a": "True",
+        "b": "False "
+      },
+      "explanations": {
+        "a": "True"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "4. If the diameter of the directing circle is doubled the diameter of the generating circle  then the hypocycloid will become a ______.",
+      "answers": {
+        "a": "Point",
+        "b": "Line",
+        "c": "Epicycloid ",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "b": "Line"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "5. .A circle of 30 mm diameter rolls outside another circle of diameter 150 mm. The angle subtended at the centre of directing circle is _____",
+      "answers": {
+        "a": "56°",
+        "b": "85°",
+        "c": "72°",
+        "d": "90"
+      },
+      "explanations": {
+        "c": "72"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "6. Which of the following curve will be generated if a circle of diameter 40 mm rolls on the circumference of another circle of diameter 150 mm and outside it? ",
+      "answers": {
+        "a": "Cycloid ",
+        "b": "Epicycloid ",
+        "c": "Hypocycloid ",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "b": "Epicycloid "
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
