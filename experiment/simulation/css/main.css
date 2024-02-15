@@ -986,6 +986,15 @@ nav .logo2 {
   top: 129px;
 }
 
+#transbox32a {
+  border: 2px solid black;
+  height: 165px;
+  width: 85px;
+  position: absolute;
+  left: 637px;
+  top: 169px;
+}
+
 #transbox33 {
   height: 165px;
   width: 25px;
@@ -993,6 +1002,15 @@ nav .logo2 {
   position: absolute;
   left: 677px;
   top: 129px;
+}
+
+#transbox33a {
+  border: 2px solid black;
+  height: 165px;
+  width: 85px;
+  position: absolute;
+  left: 637px;
+  top: 169px;
 }
 
 #transbox55 {
@@ -1020,6 +1038,15 @@ nav .logo2 {
   position: absolute;
   left: 677px;
   top: 129px;
+}
+
+#transbox34a {
+  border: 2px solid black;
+  height: 165px;
+  width: 85px;
+  position: absolute;
+  left: 637px;
+  top: 169px;
 }
 
 #transbox40 {
@@ -1244,6 +1271,33 @@ nav .logo2 {
   position: absolute;
   left: 677px;
   top: 129px;
+}
+
+#transbox35 {
+  height: 165px;
+  width: 25px;
+  rotate: 40deg;
+  position: absolute;
+  left: 677px;
+  top: 129px;
+}
+
+#transbox36a {
+  border: 2px solid black;
+  height: 165px;
+  width: 85px;
+  position: absolute;
+  left: 637px;
+  top: 169px;
+}
+
+#transbox35a {
+  border: 2px solid black;
+  height: 165px;
+  width: 85px;
+  position: absolute;
+  left: 637px;
+  top: 169px;
 }
 
 #transbox17 {

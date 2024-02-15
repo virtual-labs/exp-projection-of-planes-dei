@@ -587,6 +587,19 @@ function gif65() {
   }, 6750);
 }
 
+function gif106() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("seventyone").style.visibility = "hidden";
+  document.getElementById("gif65").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox65").style.visibility = "hidden";
+    document.getElementById("transbox66").style.visibility = "visible";
+    document.getElementById("gif65").style.visibility = "hidden";
+    document.getElementById("arrow12").style.visibility = "visible";
+    document.getElementById("seventytwo").style.visibility = "visible";
+  }, 5750);
+}
+
 function gif87() {
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("seventyone").style.visibility = "hidden";
@@ -611,6 +624,19 @@ function gif66() {
     document.getElementById("arrow12").style.visibility = "visible";
     document.getElementById("seventythree").style.visibility = "visible";
   }, 7050);
+}
+
+function gif107() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("seventytwo").style.visibility = "hidden";
+  document.getElementById("gif66").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox66").style.visibility = "hidden";
+    document.getElementById("transbox67").style.visibility = "visible";
+    document.getElementById("gif66").style.visibility = "hidden";
+    document.getElementById("arrow12").style.visibility = "visible";
+    document.getElementById("seventythree").style.visibility = "visible";
+  }, 5750);
 }
 
 function gif88() {
@@ -639,6 +665,19 @@ function gif67() {
   }, 9050);
 }
 
+function gif108() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("seventythree").style.visibility = "hidden";
+  document.getElementById("gif67").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox67").style.visibility = "hidden";
+    document.getElementById("transbox68").style.visibility = "visible";
+    document.getElementById("gif67").style.visibility = "hidden";
+    document.getElementById("arrow12").style.visibility = "visible";
+    document.getElementById("seventyfour").style.visibility = "visible";
+  }, 5850);
+}
+
 function gif89() {
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("seventythree").style.visibility = "hidden";
@@ -663,6 +702,19 @@ function gif68() {
     document.getElementById("arrow12").style.visibility = "visible";
     document.getElementById("seventyfive").style.visibility = "visible";
   }, 6750);
+}
+
+function gif109() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("seventyfour").style.visibility = "hidden";
+  document.getElementById("gif68").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox68").style.visibility = "hidden";
+    document.getElementById("transbox69").style.visibility = "visible";
+    document.getElementById("gif68").style.visibility = "hidden";
+    document.getElementById("arrow12").style.visibility = "visible";
+    document.getElementById("seventyfive").style.visibility = "visible";
+  }, 5550);
 }
 
 function gif90() {
@@ -691,6 +743,19 @@ function gif69() {
   }, 8750);
 }
 
+function gif110() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("seventyfive").style.visibility = "hidden";
+  document.getElementById("gif69").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox69").style.visibility = "hidden";
+    document.getElementById("transbox70").style.visibility = "visible";
+    document.getElementById("gif69").style.visibility = "hidden";
+    document.getElementById("arrow12").style.visibility = "visible";
+    document.getElementById("seventysix").style.visibility = "visible";
+  }, 5550);
+}
+
 function gif91() {
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("seventyfive").style.visibility = "hidden";
@@ -713,6 +778,17 @@ function gif70() {
     document.getElementById("next").style.visibility = "visible";
     document.getElementById("seventyseven").style.visibility = "visible";
   }, 7050);
+}
+
+function gif111() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("seventysix").style.visibility = "hidden";
+  document.getElementById("gif70").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("gif70").style.visibility = "hidden";
+    document.getElementById("next").style.visibility = "visible";
+    document.getElementById("seventyseven").style.visibility = "visible";
+  }, 5850);
 }
 
 function gif92() {
@@ -860,6 +936,19 @@ function gif32() {
   }, 7750);
 }
 
+function gif98() {
+  document.getElementById("arrow13").style.visibility = "hidden";
+  document.getElementById("thirtyeight").style.visibility = "hidden";
+  document.getElementById("gif32").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox32a").style.visibility = "hidden";
+    document.getElementById("transbox33a").style.visibility = "visible";
+    document.getElementById("gif32").style.visibility = "hidden";
+    document.getElementById("arrow13").style.visibility = "visible";
+    document.getElementById("thirtynine").style.visibility = "visible";
+  }, 8550);
+}
+
 function gif33() {
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("thirtynine").style.visibility = "hidden";
@@ -871,6 +960,19 @@ function gif33() {
     document.getElementById("arrow12").style.visibility = "visible";
     document.getElementById("fourty").style.visibility = "visible";
   }, 9500);
+}
+
+function gif99() {
+  document.getElementById("arrow13").style.visibility = "hidden";
+  document.getElementById("thirtynine").style.visibility = "hidden";
+  document.getElementById("gif33").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox33a").style.visibility = "hidden";
+    document.getElementById("transbox34a").style.visibility = "visible";
+    document.getElementById("gif33").style.visibility = "hidden";
+    document.getElementById("arrow13").style.visibility = "visible";
+    document.getElementById("fourty").style.visibility = "visible";
+  }, 7500);
 }
 
 function gif34() {
@@ -886,6 +988,19 @@ function gif34() {
   }, 11500);
 }
 
+function gif100() {
+  document.getElementById("arrow13").style.visibility = "hidden";
+  document.getElementById("fourty").style.visibility = "hidden";
+  document.getElementById("gif34").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox34a").style.visibility = "hidden";
+    document.getElementById("transbox35a").style.visibility = "visible";
+    document.getElementById("gif34").style.visibility = "hidden";
+    document.getElementById("arrow13").style.visibility = "visible";
+    document.getElementById("fourtyone").style.visibility = "visible";
+  }, 7500);
+}
+
 function gif35() {
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("fourtyone").style.visibility = "hidden";
@@ -897,6 +1012,18 @@ function gif35() {
     document.getElementById("arrow12").style.visibility = "visible";
     document.getElementById("fourtytwo").style.visibility = "visible";
   }, 11500);
+}
+
+function gif101() {
+  document.getElementById("arrow13").style.visibility = "hidden";
+  document.getElementById("fourtyone").style.visibility = "hidden";
+  document.getElementById("gif36").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox35a").style.visibility = "hidden";
+    document.getElementById("gif36").style.visibility = "hidden";
+    document.getElementById("fourtytwo").style.visibility = "visible";
+    document.getElementById("next").style.visibility = "visible";
+  }, 5500);
 }
 
 function gif36() {
@@ -922,7 +1049,45 @@ function gif37() {
   }, 7500);
 }
 
+function gif112() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("fourtythree").style.visibility = "hidden";
+  document.getElementById("gif37").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox37").style.visibility = "hidden";
+    document.getElementById("transbox38").style.visibility = "visible";
+    document.getElementById("arrow12").style.visibility = "visible";
+    document.getElementById("gif37").style.visibility = "hidden";
+    document.getElementById("fourtyfour").style.visibility = "visible";
+  }, 9900);
+}
+
+function gif103() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("fourtythree").style.visibility = "hidden";
+  document.getElementById("gif37").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox37").style.visibility = "hidden";
+    document.getElementById("transbox38").style.visibility = "visible";
+    document.getElementById("arrow12").style.visibility = "visible";
+    document.getElementById("gif37").style.visibility = "hidden";
+    document.getElementById("fourtyfour").style.visibility = "visible";
+  }, 10000);
+}
+
 function gif38() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("fourtyfour").style.visibility = "hidden";
+  document.getElementById("gif38").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox38").style.visibility = "hidden";
+    document.getElementById("gif38").style.visibility = "hidden";
+    document.getElementById("fourtyfive").style.visibility = "visible ";
+    document.getElementById("next").style.visibility = "visible ";
+  }, 7500);
+}
+
+function gif104() {
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("fourtyfour").style.visibility = "hidden";
   document.getElementById("gif38").style.visibility = "visible";
@@ -932,7 +1097,7 @@ function gif38() {
     document.getElementById("gif38").style.visibility = "hidden";
     document.getElementById("fourtyfive").style.visibility = "visible ";
     document.getElementById("arrow12").style.visibility = "visible";
-  }, 7500);
+  }, 6000);
 }
 
 function gif39() {
@@ -945,6 +1110,18 @@ function gif39() {
     document.getElementById("ninetyfive").style.visibility = "visible";
     document.getElementById("next").style.visibility = "visible";
   }, 7900);
+}
+
+function gif105() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("fourtyfive").style.visibility = "hidden";
+  document.getElementById("gif39").style.visibility = "visible";
+  myTimeout = setTimeout(() => {
+    document.getElementById("transbox39").style.visibility = "hidden";
+    document.getElementById("gif39").style.visibility = "hidden";
+    document.getElementById("ninetyfive").style.visibility = "visible";
+    document.getElementById("next").style.visibility = "visible";
+  }, 7000);
 }
 
 function gif40() {
