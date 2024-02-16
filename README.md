@@ -4,7 +4,7 @@
 <b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Engineering Graphics Lab
-<b> Experiment|     <b> Projection of Solids
+<b> Experiment|     <b> Projection of Planes
 
 ### About the Experiment 
 
