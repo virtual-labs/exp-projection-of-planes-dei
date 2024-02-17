@@ -1278,7 +1278,7 @@ function gif51() {
   myTimeout = setTimeout(() => {
     document.getElementById("transbox51").style.visibility = "hidden";
     document.getElementById("next").style.visibility = "visible";
-  }, 7500);
+  }, 8500);
 }
 
 function gif52() {
