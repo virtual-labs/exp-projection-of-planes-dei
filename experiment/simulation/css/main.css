@@ -847,6 +847,7 @@ nav .logo2 {
 #transbox2 {
   height: 165px;
   width: 25px;
+  border: 2px solid black;
   rotate: 40deg;
   position: absolute;
   left: 677px;
