@@ -150,6 +150,18 @@ function gif3() {
   }, 9500);
 }
 
+function gif4() {
+  document.getElementById("arrow12").style.visibility = "hidden";
+  document.getElementById("gif4").style.visibility = "visible";
+  document.getElementById("four").style.visibility = "hidden";
+  myTimeout = setTimeout(() => {
+    document.getElementById("gif4").style.visibility = "hidden";
+    document.getElementById("transbox4").style.visibility = "hidden";
+    document.getElementById("six").style.visibility = "visible";
+    document.getElementById("next").style.visibility = "visible";
+  }, 9500);
+}
+
 function gif78() {
   document.getElementById("arrow12").style.visibility = "hidden";
   document.getElementById("gif3").style.visibility = "visible";
@@ -1080,10 +1092,11 @@ function gif38() {
   document.getElementById("fourtyfour").style.visibility = "hidden";
   document.getElementById("gif38").style.visibility = "visible";
   myTimeout = setTimeout(() => {
+    document.getElementById("arrow12").style.visibility = "visible";
     document.getElementById("transbox38").style.visibility = "hidden";
+    document.getElementById("transbox39").style.visibility = "visible";
     document.getElementById("gif38").style.visibility = "hidden";
     document.getElementById("fourtyfive").style.visibility = "visible ";
-    document.getElementById("next").style.visibility = "visible ";
   }, 7500);
 }
 
@@ -1107,7 +1120,7 @@ function gif39() {
   myTimeout = setTimeout(() => {
     document.getElementById("transbox39").style.visibility = "hidden";
     document.getElementById("gif39").style.visibility = "hidden";
-    document.getElementById("ninetyfive").style.visibility = "visible";
+    document.getElementById("fourtysix").style.visibility = "visible";
     document.getElementById("next").style.visibility = "visible";
   }, 7900);
 }
@@ -1121,7 +1134,7 @@ function gif105() {
     document.getElementById("gif39").style.visibility = "hidden";
     document.getElementById("ninetyfive").style.visibility = "visible";
     document.getElementById("next").style.visibility = "visible";
-  }, 7000);
+  }, 7400);
 }
 
 function gif40() {

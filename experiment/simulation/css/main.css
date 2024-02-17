@@ -847,7 +847,6 @@ nav .logo2 {
 #transbox2 {
   height: 165px;
   width: 25px;
-  border: 2px solid black;
   rotate: 40deg;
   position: absolute;
   left: 677px;
@@ -988,7 +987,7 @@ nav .logo2 {
 }
 
 #transbox32a {
-  border: 2px solid black;
+  
   height: 165px;
   width: 85px;
   position: absolute;
@@ -1006,7 +1005,7 @@ nav .logo2 {
 }
 
 #transbox33a {
-  border: 2px solid black;
+  
   height: 165px;
   width: 85px;
   position: absolute;
@@ -1042,7 +1041,7 @@ nav .logo2 {
 }
 
 #transbox34a {
-  border: 2px solid black;
+  
   height: 165px;
   width: 85px;
   position: absolute;
@@ -1284,7 +1283,7 @@ nav .logo2 {
 }
 
 #transbox36a {
-  border: 2px solid black;
+  
   height: 165px;
   width: 85px;
   position: absolute;
@@ -1293,7 +1292,7 @@ nav .logo2 {
 }
 
 #transbox35a {
-  border: 2px solid black;
+  
   height: 165px;
   width: 85px;
   position: absolute;
