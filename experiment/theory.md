@@ -50,5 +50,5 @@ The following positions of planes in space are possible-
 5. Planes Inclined to VP and Perpendicular to HP
 6. Planes Inclined to both VP and HP
 
-**Note:** The following notation should be followed while naming different views of projection of planes- 
-<img src="images/table.svg" alt="Table">
+**Note:** The following notation should be followed while naming different views of projection of planes- <br><br>
+<img src="images/table.svg" alt="Table" height = 120px>
