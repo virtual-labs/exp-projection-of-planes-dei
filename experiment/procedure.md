@@ -1,4 +1,4 @@
-### Procedure
+#### Procedure
 
 <b>1. A Square plane with a 70mm side has its surface parallel to and 30mm above the HP. Draw its projections, when:<br>
 (a) A side is parallel to VP <br>
