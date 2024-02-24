@@ -1,12 +1,10 @@
-### Procedure
+#### Procedure
 
-### 1. A Square plane with a 70mm side has its surface parallel to and 30mm above the HP. Draw its projections, when:
-
-### (a) A side is parallel to VP
-
-### (b) A side is inclined at 30⁰ to VP and
-
-### (c) All sides are equally inclined to VP.
+<b>1. A Square plane with a 70mm side has its surface parallel to and 30mm above the HP. Draw its projections, when:<br>
+(a) A side is parallel to VP <br>
+(b) A side is inclined at 30⁰ to VP and <br>
+(c) All sides are equally inclined to VP.
+</b>
 
 1. Draw XY line using 3H pencil.
 2. Draw a square of side 70mm below XY line.
@@ -19,7 +17,7 @@
 9. Draw the vertical projections of this square and also extend the vertical projections 30mm above XY line.
 10. Mark the front view as a’, b’, c’, d’.
 
-### A pentagonal plane with a 70mm side has an edge on the HP, the surface of the plane is inclined at 45⁰ to the HP. Draw it’s projections.
+<b>2. A pentagonal plane with a 70mm side has an edge on the HP, the surface of the plane is inclined at 45⁰ to the HP. Draw it’s projections.</b>
 
 1. Draw XY line using 3H pencil.
 2. Draw a pentagon of side 70mm below XY line.
@@ -30,7 +28,7 @@
 7. Draw the vertical and horizontal projections and mark their intersecting points.
 8. Join the intersection points and name them a, b, c, d, e.
 
-### An equilateral triangular plane whose side is 90mm is kept in such a way that its surface is perpendicular to both HP and VP and base is parallel to the VP. Draw its projections.
+<b>3. An equilateral triangular plane whose side is 90mm is kept in such a way that its surface is perpendicular to both HP and VP and base is parallel to the VP. Draw its projections.</b>
 
 1. Draw the XY and X1Y1 axis perpendicular to each other.
 2. Draw an equilateral triangle (a’’b’’c’’) of side 90mm in the first quadrant such that it’s base is parallel to X1Y1 axis.
@@ -39,7 +37,7 @@
 5. Draw the vertical and horizontal projections to make the front view.
 6. Join the intersecting to complete the front view (a’,b’,c’,d’).
 
-### An equilateral triangular plane whose side is 90mm is kept in such a way that its surface is perpendicular to both HP and VP and base is parallel to the VP. Draw its projections.
+<b>4. An equilateral triangular plane whose side is 90mm is kept in such a way that its surface is perpendicular to both HP and VP and base is parallel to the VP. Draw its projections.</b>
 
 1. Draw XY line using 3H pencil.
 2. Draw a square of side 70mm inclined 45 degrees to VP.
