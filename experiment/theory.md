@@ -32,14 +32,18 @@ A plane is 2-dimensional figure which has length and breadth. It has no thicknes
 The planes which have their surface perpendicular to any one of the reference planes and parallel or inclines to the other reference plane are called as perpendicular planes.
 
 **Example:** Surface of a plane inclined to HP and perpendicular to VP, Surface of a plane parallel to VP and perpendicular to HP, etc. <br>
-<img src="images/perpendicular-plane.svg" alt="Perpendicular Plane" height = 300px align = center>
+<p align = "center">
+  <img src="images/perpendicular-plane.svg" alt="Perpendicular Plane" height = 300px >
+</p>
 
 <b>2. Oblique Planes</b>
 
 The planes which have their surface inclined to both the reference planes.
 
 **Example:** A plane inclined to both HP and VP <br>
-<img src="images/oblique-plane.svg" alt="Oblique Plane" height = 300px align = middle>
+<p align = "center">
+  <img src="images/oblique-plane.svg" alt="Oblique Plane" height = 300px>
+</p>
 
 #### Orientation of planes in space
 
