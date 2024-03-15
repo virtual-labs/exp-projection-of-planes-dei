@@ -1,0 +1,236 @@
+
+/home/runner/work/exp-projection-of-planes-dei/exp-projection-of-planes-dei/experiment/simulation/js/main.js
+    11:10  warning  'drop' is defined but never used              no-unused-vars
+    20:41  warning  'evt' is defined but never used               no-unused-vars
+    32:10  warning  'drop2' is defined but never used             no-unused-vars
+    38:9   warning  'arrow1' is assigned a value but never used   no-unused-vars
+    46:41  warning  'evt' is defined but never used               no-unused-vars
+    61:10  warning  'drop3' is defined but never used             no-unused-vars
+    74:41  warning  'evt' is defined but never used               no-unused-vars
+    88:10  warning  'drop4' is defined but never used             no-unused-vars
+    93:9   warning  'arrow12' is assigned a value but never used  no-unused-vars
+   101:41  warning  'evt' is defined but never used               no-unused-vars
+   108:7   warning  'arrow19' is not defined                      no-undef
+   116:10  warning  'gif1' is defined but never used              no-unused-vars
+   121:3   warning  'myTimeout' is not defined                    no-undef
+   127:10  warning  'gif2' is defined but never used              no-unused-vars
+   131:3   warning  'myTimeout' is not defined                    no-undef
+   140:10  warning  'gif3' is defined but never used              no-unused-vars
+   144:3   warning  'myTimeout' is not defined                    no-undef
+   153:10  warning  'gif4' is defined but never used              no-unused-vars
+   157:3   warning  'myTimeout' is not defined                    no-undef
+   165:10  warning  'gif78' is defined but never used             no-unused-vars
+   169:3   warning  'myTimeout' is not defined                    no-undef
+   178:10  warning  'gif79' is defined but never used             no-unused-vars
+   182:3   warning  'myTimeout' is not defined                    no-undef
+   191:10  warning  'gif80' is defined but never used             no-unused-vars
+   195:3   warning  'myTimeout' is not defined                    no-undef
+   203:10  warning  'gif5' is defined but never used              no-unused-vars
+   207:3   warning  'myTimeout' is not defined                    no-undef
+   216:10  warning  'gif6' is defined but never used              no-unused-vars
+   220:3   warning  'myTimeout' is not defined                    no-undef
+   229:10  warning  'gif7' is defined but never used              no-unused-vars
+   233:3   warning  'myTimeout' is not defined                    no-undef
+   242:10  warning  'gif8' is defined but never used              no-unused-vars
+   246:3   warning  'myTimeout' is not defined                    no-undef
+   254:10  warning  'gif9' is defined but never used              no-unused-vars
+   258:3   warning  'myTimeout' is not defined                    no-undef
+   266:10  warning  'gif10' is defined but never used             no-unused-vars
+   270:3   warning  'myTimeout' is not defined                    no-undef
+   279:10  warning  'gif11' is defined but never used             no-unused-vars
+   283:3   warning  'myTimeout' is not defined                    no-undef
+   292:10  warning  'gif86' is defined but never used             no-unused-vars
+   296:3   warning  'myTimeout' is not defined                    no-undef
+   304:10  warning  'gif12' is defined but never used             no-unused-vars
+   308:3   warning  'myTimeout' is not defined                    no-undef
+   314:10  warning  'gif13' is defined but never used             no-unused-vars
+   318:3   warning  'myTimeout' is not defined                    no-undef
+   327:10  warning  'gif14' is defined but never used             no-unused-vars
+   331:3   warning  'myTimeout' is not defined                    no-undef
+   340:10  warning  'gif15' is defined but never used             no-unused-vars
+   344:3   warning  'myTimeout' is not defined                    no-undef
+   353:10  warning  'gif16' is defined but never used             no-unused-vars
+   357:3   warning  'myTimeout' is not defined                    no-undef
+   366:10  warning  'gif17' is defined but never used             no-unused-vars
+   370:3   warning  'myTimeout' is not defined                    no-undef
+   379:10  warning  'gif18' is defined but never used             no-unused-vars
+   383:3   warning  'myTimeout' is not defined                    no-undef
+   392:10  warning  'gif19' is defined but never used             no-unused-vars
+   396:3   warning  'myTimeout' is not defined                    no-undef
+   405:10  warning  'gif20' is defined but never used             no-unused-vars
+   409:3   warning  'myTimeout' is not defined                    no-undef
+   415:10  warning  'gif21' is defined but never used             no-unused-vars
+   419:3   warning  'myTimeout' is not defined                    no-undef
+   425:10  warning  'gif22' is defined but never used             no-unused-vars
+   429:3   warning  'myTimeout' is not defined                    no-undef
+   438:10  warning  'gif59' is defined but never used             no-unused-vars
+   442:3   warning  'myTimeout' is not defined                    no-undef
+   451:10  warning  'gif23' is defined but never used             no-unused-vars
+   456:3   warning  'myTimeout' is not defined                    no-undef
+   464:10  warning  'gif60' is defined but never used             no-unused-vars
+   469:3   warning  'myTimeout' is not defined                    no-undef
+   476:10  warning  'gif24' is defined but never used             no-unused-vars
+   480:3   warning  'myTimeout' is not defined                    no-undef
+   486:10  warning  'gif61' is defined but never used             no-unused-vars
+   491:3   warning  'myTimeout' is not defined                    no-undef
+   499:10  warning  'gif25' is defined but never used             no-unused-vars
+   503:3   warning  'myTimeout' is not defined                    no-undef
+   512:10  warning  'gif62' is defined but never used             no-unused-vars
+   516:3   warning  'myTimeout' is not defined                    no-undef
+   525:10  warning  'gif63' is defined but never used             no-unused-vars
+   529:3   warning  'myTimeout' is not defined                    no-undef
+   538:10  warning  'gif64' is defined but never used             no-unused-vars
+   542:3   warning  'myTimeout' is not defined                    no-undef
+   550:10  warning  'gif26' is defined but never used             no-unused-vars
+   554:3   warning  'myTimeout' is not defined                    no-undef
+   563:10  warning  'gif27' is defined but never used             no-unused-vars
+   567:3   warning  'myTimeout' is not defined                    no-undef
+   576:10  warning  'gif28' is defined but never used             no-unused-vars
+   580:3   warning  'myTimeout' is not defined                    no-undef
+   589:10  warning  'gif65' is defined but never used             no-unused-vars
+   593:3   warning  'myTimeout' is not defined                    no-undef
+   602:10  warning  'gif106' is defined but never used            no-unused-vars
+   606:3   warning  'myTimeout' is not defined                    no-undef
+   615:10  warning  'gif87' is defined but never used             no-unused-vars
+   619:3   warning  'myTimeout' is not defined                    no-undef
+   628:10  warning  'gif66' is defined but never used             no-unused-vars
+   632:3   warning  'myTimeout' is not defined                    no-undef
+   641:10  warning  'gif107' is defined but never used            no-unused-vars
+   645:3   warning  'myTimeout' is not defined                    no-undef
+   654:10  warning  'gif88' is defined but never used             no-unused-vars
+   658:3   warning  'myTimeout' is not defined                    no-undef
+   667:10  warning  'gif67' is defined but never used             no-unused-vars
+   671:3   warning  'myTimeout' is not defined                    no-undef
+   680:10  warning  'gif108' is defined but never used            no-unused-vars
+   684:3   warning  'myTimeout' is not defined                    no-undef
+   693:10  warning  'gif89' is defined but never used             no-unused-vars
+   697:3   warning  'myTimeout' is not defined                    no-undef
+   706:10  warning  'gif68' is defined but never used             no-unused-vars
+   710:3   warning  'myTimeout' is not defined                    no-undef
+   719:10  warning  'gif109' is defined but never used            no-unused-vars
+   723:3   warning  'myTimeout' is not defined                    no-undef
+   732:10  warning  'gif90' is defined but never used             no-unused-vars
+   736:3   warning  'myTimeout' is not defined                    no-undef
+   745:10  warning  'gif69' is defined but never used             no-unused-vars
+   749:3   warning  'myTimeout' is not defined                    no-undef
+   758:10  warning  'gif110' is defined but never used            no-unused-vars
+   762:3   warning  'myTimeout' is not defined                    no-undef
+   771:10  warning  'gif91' is defined but never used             no-unused-vars
+   775:3   warning  'myTimeout' is not defined                    no-undef
+   784:10  warning  'gif70' is defined but never used             no-unused-vars
+   788:3   warning  'myTimeout' is not defined                    no-undef
+   795:10  warning  'gif111' is defined but never used            no-unused-vars
+   799:3   warning  'myTimeout' is not defined                    no-undef
+   806:10  warning  'gif92' is defined but never used             no-unused-vars
+   810:3   warning  'myTimeout' is not defined                    no-undef
+   817:10  warning  'gif71' is defined but never used             no-unused-vars
+   821:3   warning  'myTimeout' is not defined                    no-undef
+   828:10  warning  'gif72' is defined but never used             no-unused-vars
+   832:3   warning  'myTimeout' is not defined                    no-undef
+   841:10  warning  'gif93' is defined but never used             no-unused-vars
+   845:3   warning  'myTimeout' is not defined                    no-undef
+   854:10  warning  'gif73' is defined but never used             no-unused-vars
+   858:3   warning  'myTimeout' is not defined                    no-undef
+   867:10  warning  'gif94' is defined but never used             no-unused-vars
+   871:3   warning  'myTimeout' is not defined                    no-undef
+   880:10  warning  'gif74' is defined but never used             no-unused-vars
+   884:3   warning  'myTimeout' is not defined                    no-undef
+   893:10  warning  'gif75' is defined but never used             no-unused-vars
+   897:3   warning  'myTimeout' is not defined                    no-undef
+   905:10  warning  'gif29' is defined but never used             no-unused-vars
+   909:3   warning  'myTimeout' is not defined                    no-undef
+   918:10  warning  'gif30' is defined but never used             no-unused-vars
+   922:3   warning  'myTimeout' is not defined                    no-undef
+   928:10  warning  'gif31' is defined but never used             no-unused-vars
+   932:3   warning  'myTimeout' is not defined                    no-undef
+   938:10  warning  'gif32' is defined but never used             no-unused-vars
+   942:3   warning  'myTimeout' is not defined                    no-undef
+   951:10  warning  'gif98' is defined but never used             no-unused-vars
+   955:3   warning  'myTimeout' is not defined                    no-undef
+   964:10  warning  'gif33' is defined but never used             no-unused-vars
+   968:3   warning  'myTimeout' is not defined                    no-undef
+   977:10  warning  'gif99' is defined but never used             no-unused-vars
+   981:3   warning  'myTimeout' is not defined                    no-undef
+   990:10  warning  'gif34' is defined but never used             no-unused-vars
+   994:3   warning  'myTimeout' is not defined                    no-undef
+  1003:10  warning  'gif100' is defined but never used            no-unused-vars
+  1007:3   warning  'myTimeout' is not defined                    no-undef
+  1016:10  warning  'gif35' is defined but never used             no-unused-vars
+  1020:3   warning  'myTimeout' is not defined                    no-undef
+  1029:10  warning  'gif101' is defined but never used            no-unused-vars
+  1033:3   warning  'myTimeout' is not defined                    no-undef
+  1041:10  warning  'gif36' is defined but never used             no-unused-vars
+  1045:3   warning  'myTimeout' is not defined                    no-undef
+  1051:10  warning  'gif37' is defined but never used             no-unused-vars
+  1055:3   warning  'myTimeout' is not defined                    no-undef
+  1064:10  warning  'gif112' is defined but never used            no-unused-vars
+  1068:3   warning  'myTimeout' is not defined                    no-undef
+  1077:10  warning  'gif103' is defined but never used            no-unused-vars
+  1081:3   warning  'myTimeout' is not defined                    no-undef
+  1090:10  warning  'gif38' is defined but never used             no-unused-vars
+  1094:3   warning  'myTimeout' is not defined                    no-undef
+  1103:10  warning  'gif104' is defined but never used            no-unused-vars
+  1107:3   warning  'myTimeout' is not defined                    no-undef
+  1116:10  warning  'gif39' is defined but never used             no-unused-vars
+  1120:3   warning  'myTimeout' is not defined                    no-undef
+  1128:10  warning  'gif105' is defined but never used            no-unused-vars
+  1132:3   warning  'myTimeout' is not defined                    no-undef
+  1140:10  warning  'gif40' is defined but never used             no-unused-vars
+  1144:3   warning  'myTimeout' is not defined                    no-undef
+  1150:10  warning  'gif41' is defined but never used             no-unused-vars
+  1154:3   warning  'myTimeout' is not defined                    no-undef
+  1160:10  warning  'gif42' is defined but never used             no-unused-vars
+  1164:3   warning  'myTimeout' is not defined                    no-undef
+  1170:10  warning  'gif43' is defined but never used             no-unused-vars
+  1174:3   warning  'myTimeout' is not defined                    no-undef
+  1183:10  warning  'gif44' is defined but never used             no-unused-vars
+  1187:3   warning  'myTimeout' is not defined                    no-undef
+  1196:10  warning  'gif45' is defined but never used             no-unused-vars
+  1200:3   warning  'myTimeout' is not defined                    no-undef
+  1209:10  warning  'gif46' is defined but never used             no-unused-vars
+  1213:3   warning  'myTimeout' is not defined                    no-undef
+  1222:10  warning  'gif47' is defined but never used             no-unused-vars
+  1226:3   warning  'myTimeout' is not defined                    no-undef
+  1235:10  warning  'gif48' is defined but never used             no-unused-vars
+  1239:3   warning  'myTimeout' is not defined                    no-undef
+  1248:10  warning  'gif49' is defined but never used             no-unused-vars
+  1252:3   warning  'myTimeout' is not defined                    no-undef
+  1261:10  warning  'gif50' is defined but never used             no-unused-vars
+  1265:3   warning  'myTimeout' is not defined                    no-undef
+  1274:10  warning  'gif51' is defined but never used             no-unused-vars
+  1278:3   warning  'myTimeout' is not defined                    no-undef
+  1284:10  warning  'gif52' is defined but never used             no-unused-vars
+  1288:3   warning  'myTimeout' is not defined                    no-undef
+  1297:10  warning  'gif53' is defined but never used             no-unused-vars
+  1301:3   warning  'myTimeout' is not defined                    no-undef
+  1307:10  warning  'gif53P' is defined but never used            no-unused-vars
+  1312:3   warning  'myTimeout' is not defined                    no-undef
+  1320:10  warning  'gif54' is defined but never used             no-unused-vars
+  1324:3   warning  'myTimeout' is not defined                    no-undef
+  1333:10  warning  'gif54P' is defined but never used            no-unused-vars
+  1338:3   warning  'myTimeout' is not defined                    no-undef
+  1346:10  warning  'gif55' is defined but never used             no-unused-vars
+  1350:3   warning  'myTimeout' is not defined                    no-undef
+  1359:10  warning  'gif55P' is defined but never used            no-unused-vars
+  1364:3   warning  'myTimeout' is not defined                    no-undef
+  1371:10  warning  'gif56' is defined but never used             no-unused-vars
+  1375:3   warning  'myTimeout' is not defined                    no-undef
+  1384:10  warning  'gif56P' is defined but never used            no-unused-vars
+  1389:3   warning  'myTimeout' is not defined                    no-undef
+  1396:10  warning  'gif57' is defined but never used             no-unused-vars
+  1400:3   warning  'myTimeout' is not defined                    no-undef
+  1409:10  warning  'gif57P' is defined but never used            no-unused-vars
+  1414:3   warning  'myTimeout' is not defined                    no-undef
+  1420:10  warning  'gif58' is defined but never used             no-unused-vars
+  1424:3   warning  'myTimeout' is not defined                    no-undef
+
+/home/runner/work/exp-projection-of-planes-dei/exp-projection-of-planes-dei/experiment/simulation/js/starter.js
+   7:5   warning  'myTimeout' is not defined             no-undef
+  22:3   warning  'myTimeout' is not defined             no-undef
+  37:10  warning  'clipmove1' is defined but never used  no-unused-vars
+  46:10  warning  'clipmove2' is defined but never used  no-unused-vars
+  55:10  warning  'clipmove3' is defined but never used  no-unused-vars
+  64:10  warning  'clipmove4' is defined but never used  no-unused-vars
+
+✖ 229 problems (0 errors, 229 warnings)
+
