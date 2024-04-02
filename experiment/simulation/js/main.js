@@ -135,7 +135,7 @@ function gif2() {
     document.getElementById("transbox3").style.visibility = "visible";
     document.getElementById("gif2").style.visibility = "hidden";
     document.getElementById("three").style.visibility = "visible";
-  }, 7800);
+  }, 10500);
 }
 
 function gif3() {
@@ -525,7 +525,7 @@ function gif62() {
     document.getElementById("gif62").style.visibility = "hidden";
     document.getElementById("arrow12").style.visibility = "visible";
     document.getElementById("sixtyeight").style.visibility = "visible";
-  }, 7750);
+  }, 10450);
 }
 
 function gif63() {
@@ -951,7 +951,7 @@ function gif32() {
     document.getElementById("gif32").style.visibility = "hidden";
     document.getElementById("arrow12").style.visibility = "visible";
     document.getElementById("thirtynine").style.visibility = "visible";
-  }, 7750);
+  }, 10450);
 }
 
 function gif98() {
