@@ -826,6 +826,20 @@ nav .logo2 {
   top: 150px;
 }
 
+#arrowatstart {
+  position: absolute;
+  top: 394px;
+  left: 620px;
+  z-index: 1;
+}
+
+#arrow {
+  position: absolute;
+  top: 555px;
+  left: 620px;
+  z-index: 1;
+}
+
 #gif73 {
   position: absolute;
   left: 54px;

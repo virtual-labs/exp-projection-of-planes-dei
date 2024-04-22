@@ -3,11 +3,12 @@
 let click = 0;
 
 function showNextBtn(click) {
-  if (click === 5)
-    myTimeout = setTimeout(
-      () => (document.getElementById("next").style.visibility = "visible"),
-      1000
-    );
+  if (click === 5) {
+    myTimeout = setTimeout(() => {
+      document.getElementById("next").style.visibility = "visible";
+      document.getElementById("arrowatstart").style.visibility = "visible";
+    }, 1000);
+  }
 }
 
 window.addEventListener("load", function () {
