@@ -18,7 +18,7 @@ A plane is 2-dimensional figure which has length and breadth. It has no thicknes
 **4. Traces of plane -** The lines of intersection of the plane with the reference planes (HP or VP).<br>
 **5. Horizontal Trace (HT) –** The real or imaginary line of intersection of a plane with the HP is called horizontal trace of the plane.<br>
 **6. Vertical Trace (VT) –** The real or imaginary line of intersection of a plane with the VP is called vertical trace of the plane.<br>
-**7. Line view or edge view –** The view of a plane seen a line in called line view or edge view of a plane.
+**7. Line view or edge view –** The view of a plane seen as a line is called line view or edge view of a plane.
 
 <b>Note:</b>
 1. A plane may have horizontal trace, vertical trace or both.
@@ -51,10 +51,9 @@ The following positions of planes in space are possible-
 
 1. Planes Parallel to VP and Perpendicular to HP
 2. Planes Perpendicular to VP and Parallel to HP
-3. Planes Parallel to both VP and HP or both Perpendicular VP and HP
-4. Planes Perpendicular to VP and Inclined to HP
-5. Planes Inclined to VP and Perpendicular to HP
-6. Planes Inclined to both VP and HP
+3. Planes Perpendicular to VP and Inclined to HP
+4. Planes Inclined to VP and Perpendicular to HP
+5. Planes Inclined to both VP and HP
 
 **Note:** The following notation should be followed while naming different views of projection of planes- <br><br>
 <img src="images/table.svg" alt="Table" height = 120px>

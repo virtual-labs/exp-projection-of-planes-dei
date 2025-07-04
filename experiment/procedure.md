@@ -37,17 +37,10 @@
 5. Draw the vertical and horizontal projections to make the front view.
 6. Join the intersecting to complete the front view (a’,b’,c’,d’).
 
-<b>4. An equilateral triangular plane whose side is 90mm is kept in such a way that its surface is perpendicular to both HP and VP and base is parallel to the VP. Draw its projections.</b>
+<b>4. An equilateral triangular lamina of side 90 mm is held such that its surface is perpendicular to both HP and VP. Its base edge is parallel to VP.Draw its projections.</b>
 
-1. Draw XY line using 3H pencil.
-2. Draw a square of side 70mm inclined 45 degrees to VP.
-3. Draw its vertical projections.
-4. Join the vertical projections and name them as a’, b’, c’, d’.
-5. Draw the front view inclined to HP by 45 degrees and mark the points a’, c’, d’, e’.
-6. Draw it’s vertical and horizontal projections.
-7. Join the intersecting points and name the figure as abcd.
-8. Draw a line below XY axis, 30 degrees inclined.
-9. Using ac on the base line mark the points using second top view 30 degree inclined to VP.
-10. Join the points a, b, c, d.
-11. Draw the vertical and horizontal projections.
-12. Join the intersection points to get the final projection.
+1. We must draw the top view of the lamina by assuming one of its diagonal parallel to HP.
+2. Draw projection to get front view.
+3. Tilt the projected view by 45 deg to HP and draw projectors.
+4. Obtain the top view .
+5. Again tilt the diagonal line observed in top view by 30 degree and draw the projectors to obtain the final front view.
