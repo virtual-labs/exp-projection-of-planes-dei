@@ -4,13 +4,14 @@
     {
       "question": "What is the true shape of a plane?",
       "answers": {
-        "a": "The shape it appears in the front view   ",
-        "b": "The actual shape of the plane   ",
-        "c": "The shape it appears in the top view   ",
-        "d": "The shape it appears in the side view   "
+        "a": "The shape it appears in the front view",
+        "b": "The actual shape of the plane",
+        "c": "The shape it appears in the top view",
+        "d": "The shape it appears in the side view"
       },
       "explanations": {
-        "b": "The actual shape of the plane "
+        "b": "The actual shape of the plane",
+        "explanation": "True shape is the actual geometric shape of the plane when viewed perpendicular to it."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -18,13 +19,14 @@
     {
       "question": "What does HT stand for in the context of projection of planes?",
       "answers": {
-        "a": "Horizontal Trace ",
-        "b": "Horizontal Thickness  ",
-        "c": "Horizontal Triangle  ",
-        "d": "Horizontal Tilt  "
+        "a": "Horizontal Trace",
+        "b": "Horizontal Thickness",
+        "c": "Horizontal Triangle",
+        "d": "Horizontal Tilt"
       },
       "explanations": {
-        "a": "Horizontal Trace   "
+        "a": "Horizontal Trace",
+        "explanation": "HT is the point where the plane or its extension meets the horizontal plane."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -32,13 +34,14 @@
     {
       "question": "What is the notation for the top view in the projection of planes?",
       "answers": {
-        "a": "TV  ",
-        "b": "FV  ",
-        "c": "SV  ",
-        "d": "HV  "
+        "a": "TV",
+        "b": "FV",
+        "c": "SV",
+        "d": "HV"
       },
       "explanations": {
-        "a": "TV"
+        "a": "TV",
+        "explanation": "TV stands for Top View which shows the object projected on the horizontal plane."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -46,13 +49,14 @@
     {
       "question": "What is the acute angle the plane makes with the horizontal plane known as?",
       "answers": {
-        "a": "Vertical Trace (VT)  ",
-        "b": "Inclination with the vertical plane (VP)  ",
-        "c": "Inclination with the horizontal plane (HP)  ",
-        "d": "True shape    "
+        "a": "Vertical Trace (VT)",
+        "b": "Inclination with the vertical plane (VP)",
+        "c": "Inclination with the horizontal plane (HP)",
+        "d": "True shape"
       },
       "explanations": {
-        "c": "Inclination with the horizontal plane (HP)  "
+        "c": "Inclination with the horizontal plane (HP)",
+        "explanation": "This angle tells us how much the plane is inclined from the horizontal."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -60,13 +64,14 @@
     {
       "question": "What is the term for the imaginary line of intersection of a plane with the VP?",
       "answers": {
-        "a": "Vertical Trace (VT)   ",
-        "b": "Horizontal Trace (HT)  ",
-        "c": "Inclination with the vertical plane (VP)  ",
-        "d": "True shape  "
+        "a": "Vertical Trace (VT)",
+        "b": "Horizontal Trace (HT)",
+        "c": "Inclination with the vertical plane (VP)",
+        "d": "True shape"
       },
       "explanations": {
-        "a": "Vertical Trace (VT)  "
+        "a": "Vertical Trace (VT)",
+        "explanation": "VT is where the plane or its extension meets the vertical plane."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -74,13 +79,14 @@
     {
       "question": "In the representation of a plane by two parallel lines, what do the lines indicate?",
       "answers": {
-        "a": "The edges of the plane  ",
-        "b": "The true shape of the plane  ",
-        "c": "The intersection of the plane with the reference planes  ",
-        "d": "The inclination of the plane with the VP  "
+        "a": "The edges of the plane",
+        "b": "The true shape of the plane",
+        "c": "The intersection of the plane with the reference planes",
+        "d": "The inclination of the plane with the VP"
       },
       "explanations": {
-        "c": "The intersection of the plane with the reference planes  "
+        "c": "The intersection of the plane with the reference planes",
+        "explanation": "The parallel lines represent the traces or intersection lines with HP and VP."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -88,13 +94,14 @@
     {
       "question": "In which view is the Vertical Trace (VT) always located?",
       "answers": {
-        "a": "Top View (TV)  ",
-        "b": "Front View (FV)  ",
-        "c": "Side View (SV)  ",
-        "d": "Bottom View (BV)  "
+        "a": "Top View (TV)",
+        "b": "Front View (FV)",
+        "c": "Side View (SV)",
+        "d": "Bottom View (BV)"
       },
       "explanations": {
-        "b": "Front View (FV)  "
+        "b": "Front View (FV)",
+        "explanation": "Since VT lies on the vertical plane, it's visible in the front view."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -102,13 +109,14 @@
     {
       "question": "What is the Inclination with the vertical plane (VP)?",
       "answers": {
-        "a": "The acute angle the plane makes with the horizontal plane  ",
-        "b": "The imaginary line of intersection of a plane with the VP  ",
-        "c": "The actual shape of the plane  ",
-        "d": "The acute angle the plane makes with the vertical plane  "
+        "a": "The acute angle the plane makes with the horizontal plane",
+        "b": "The imaginary line of intersection of a plane with the VP",
+        "c": "The actual shape of the plane",
+        "d": "The acute angle the plane makes with the vertical plane"
       },
       "explanations": {
-        "d": "The acute angle the plane makes with the vertical plane  "
+        "d": "The acute angle the plane makes with the vertical plane",
+        "explanation": "It indicates how much the plane tilts away from the vertical plane."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -116,13 +124,14 @@
     {
       "question": "Which representation is used to show the intersection of a plane with the horizontal plane?",
       "answers": {
-        "a": "True shape  ",
-        "b": "Inclination with the horizontal plane (HP)   ",
-        "c": "Horizontal Trace (HT)  ",
-        "d": "Vertical Trace (VT)   "
+        "a": "True shape",
+        "b": "Inclination with the horizontal plane (HP)",
+        "c": "Horizontal Trace (HT)",
+        "d": "Vertical Trace (VT)"
       },
       "explanations": {
-        "c": "Horizontal Trace (HT)  "
+        "c": "Horizontal Trace (HT)",
+        "explanation": "HT shows where the extended plane cuts the horizontal plane."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
@@ -130,13 +139,14 @@
     {
       "question": "What is the term for the lines of intersection of the plane with the reference planes?",
       "answers": {
-        "a": "True shape  ",
-        "b": "Traces of plane   ",
-        "c": "Line view or edge view   ",
-        "d": "Inclination with the vertical plane (VP)  "
+        "a": "True shape",
+        "b": "Traces of plane",
+        "c": "Line view or edge view",
+        "d": "Inclination with the vertical plane (VP)"
       },
       "explanations": {
-        "b": "Traces of plane    "
+        "b": "Traces of plane",
+        "explanation": "Traces are where the plane or its extension meets the reference planes."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -144,13 +154,14 @@
     {
       "question": "What does the Line View or Edge View represent?",
       "answers": {
-        "a": "The actual shape of the plane  ",
-        "b": "The intersection of a plane with the reference planes  ",
-        "c": "The acute angle the plane makes with the vertical plane   ",
-        "d": "The view of a plane seen as a line    "
+        "a": "The actual shape of the plane",
+        "b": "The intersection of a plane with the reference planes",
+        "c": "The acute angle the plane makes with the vertical plane",
+        "d": "The view of a plane seen as a line"
       },
       "explanations": {
-        "d": "The view of a plane seen as a line    "
+        "d": "The view of a plane seen as a line",
+        "explanation": "When a plane is viewed edge-on, it appears as a line."
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
@@ -158,13 +169,14 @@
     {
       "question": "What type of planes have their surface inclined to both the reference planes?",
       "answers": {
-        "a": "Perpendicular Planes  ",
-        "b": "Parallel Planes    ",
-        "c": "Oblique Planes  ",
-        "d": "Horizontal Planes  "
+        "a": "Perpendicular Planes",
+        "b": "Parallel Planes",
+        "c": "Oblique Planes",
+        "d": "Horizontal Planes"
       },
       "explanations": {
-        "c": "Oblique Planes   "
+        "c": "Oblique Planes",
+        "explanation": "Oblique planes are inclined to both HP and VP."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
