@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Virtual Labs</title>
+    <link rel="icon" href="../images/problem1-images/favicon.ico" />
+    <link rel="stylesheet" href="../css/main.css" />
+  </head>
+  <body>
+      
+   <!-- loader -->
+    <div id="loader">
+      <div class="spinner"></div>
+    </div>
+    
+
+    <!-- Header Area -->
+
+   <nav>
+    <div > 
+      <img class="logo1" src="../images\header.png" alt="vlabs logo"/>
+    </div>
+  <h1 style="color: #2c99ce; font-size: 26px; font-family: sans-serif;">Projection of Planes</h1>
+    <div >     
+       <img class="logo2" src="../images\dei.jpg" alt="dei logo" />
+    </div>
+  </nav>
+
+  <!---red line---->
+
+  <div class="redline"></div>
+
+
+    <!-- gray line -->
+
+    <div class="line"></div>  
+
+       <!-- container box -->
+
+       <div class="hero" >
+        <div id="container">
+          <h1 class="projection">PROJECTION OF PLANES</h1> 
+            <div class="step1">
+                <div class="texts">
+                    <p style="font-size: 17px; position: absolute; top:45px;left: 10px;">
+                      <b style="font-size:20px;">STEP</b> 
+                      <span style="font-size: 25px;font-weight: 600; border-radius: 5px; background-color: rgb(20,117,228);color:white;padding: 2px 5px;">1</span>
+                     <span style="font-size: 20px;">1.	Draw the XY and X1Y1 axis perpendicular to each other using 3H pencil.</i> 
+                    </p>
+                </div>
+                <div class="content17">
+
+              <!----------------arrows--------------->
+
+              <img id="arrow12" src="../images/arrow.gif" height="40px">
+           
+              <img id="arrow" src="../images/arrow.gif" style="visibility: hidden ;" height="30px">
+
+              <!----------------images------------->
+
+              <div id="whitebox4"></div>
+              
+              <img src="../images/assembly.png" alt="assembly-png" class="assembly1" id="assembly2">
+              
+              <img src="../images/arrow.gif" alt="arr" id="arr3">
+
+              <img id="one" src="../images/problem1-images/one.png" width="700px" style="visibility: visible;" > 
+
+              <img id="two" src="../images/problem1-images/sixtyfour.png"  height="390" width=700px  style="visibility: hidden;" > 
+
+              <img id="sixtyfive" src="../images/problem1-images/sixtyfive.png"  height="390" width=700px  style="visibility: hidden;" > 
+
+              <img id="sixtysix" src="../images/problem1-images/sixtysix.png"  height="390" width=700px  style="visibility: hidden;" > 
+
+                           
+              <!----------------gifs------------->
+
+              <img id="gif1" src="../images/problem1-images/gif59.gif"  height="390px" width=700px style="visibility: hidden;" > 
+
+              <img id="gif60" src="../images/problem1-images/gif60.gif"  height="390px" width=700px style="visibility: hidden;" > 
+           
+              <!----------------transbox------------->
+
+              <img src="../images/png's and gif's/transbox.png" alt="transbox" class="exp-transboxes" id="trans3" onclick="drop3()">
+
+              <img id="transbox16" src="../images/png's and gif's/transbox.png" ` style="visibility: visible;" onclick="gif61()">
+
+              <img id="transbox60" src="../images/png's and gif's/transbox.png" ` style="visibility: hidden;" onclick="gif60()">
+                          
+              <!----------------buttons------------->
+              
+                 <button id="next" onclick="parent.location='./step2.html'">Next</button>
+
+                  <!-- ----------------selection---------- -->
+
+                  <select name="choice" id="dropMenu3" class="dropMenu1">
+                    <option value="default">Select</option>
+                    <option value="hPencil">H Pencil</option>
+                    <option value="2hPencil">2H Pencil</option>
+                    <option value="3hPencil">3H Pencil</option>
+                  </select>
+
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src="../js/main.js"></script>
+  </body>
+</html>
