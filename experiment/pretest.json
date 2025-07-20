@@ -10,8 +10,7 @@
         "d": "The shape it appears in the side view"
       },
       "explanations": {
-        "b": "The actual shape of the plane",
-        "explanation": "True shape is the actual geometric shape of the plane when viewed perpendicular to it."
+        "b": "True shape is the actual geometric shape of the plane when viewed perpendicular to it."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -25,8 +24,7 @@
         "d": "Horizontal Tilt"
       },
       "explanations": {
-        "a": "Horizontal Trace",
-        "explanation": "HT is the point where the plane or its extension meets the horizontal plane."
+        "a": "HT is the point where the plane or its extension meets the horizontal plane."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -40,8 +38,7 @@
         "d": "HV"
       },
       "explanations": {
-        "a": "TV",
-        "explanation": "TV stands for Top View which shows the object projected on the horizontal plane."
+        "a": "TV stands for Top View which shows the object projected on the horizontal plane."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -55,8 +52,7 @@
         "d": "True shape"
       },
       "explanations": {
-        "c": "Inclination with the horizontal plane (HP)",
-        "explanation": "This angle tells us how much the plane is inclined from the horizontal."
+        "c": "This angle tells us how much the plane is inclined from the horizontal."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -70,8 +66,7 @@
         "d": "True shape"
       },
       "explanations": {
-        "a": "Vertical Trace (VT)",
-        "explanation": "VT is where the plane or its extension meets the vertical plane."
+        "a": "VT is where the plane or its extension meets the vertical plane."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -85,8 +80,7 @@
         "d": "The inclination of the plane with the VP"
       },
       "explanations": {
-        "c": "The intersection of the plane with the reference planes",
-        "explanation": "The parallel lines represent the traces or intersection lines with HP and VP."
+        "c": "The parallel lines represent the traces or intersection lines with HP and VP."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -100,8 +94,7 @@
         "d": "Bottom View (BV)"
       },
       "explanations": {
-        "b": "Front View (FV)",
-        "explanation": "Since VT lies on the vertical plane, it's visible in the front view."
+        "b": "Since VT lies on the vertical plane, it's visible in the front view."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -115,8 +108,7 @@
         "d": "The acute angle the plane makes with the vertical plane"
       },
       "explanations": {
-        "d": "The acute angle the plane makes with the vertical plane",
-        "explanation": "It indicates how much the plane tilts away from the vertical plane."
+        "d": "It indicates how much the plane tilts away from the vertical plane."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -130,8 +122,7 @@
         "d": "Vertical Trace (VT)"
       },
       "explanations": {
-        "c": "Horizontal Trace (HT)",
-        "explanation": "HT shows where the extended plane cuts the horizontal plane."
+        "c": "HT shows where the extended plane cuts the horizontal plane."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
@@ -145,8 +136,7 @@
         "d": "Inclination with the vertical plane (VP)"
       },
       "explanations": {
-        "b": "Traces of plane",
-        "explanation": "Traces are where the plane or its extension meets the reference planes."
+        "b": "Traces are where the plane or its extension meets the reference planes."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -160,8 +150,7 @@
         "d": "The view of a plane seen as a line"
       },
       "explanations": {
-        "d": "The view of a plane seen as a line",
-        "explanation": "When a plane is viewed edge-on, it appears as a line."
+        "d": "When a plane is viewed edge-on, it appears as a line."
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
@@ -175,8 +164,7 @@
         "d": "Horizontal Planes"
       },
       "explanations": {
-        "c": "Oblique Planes",
-        "explanation": "Oblique planes are inclined to both HP and VP."
+        "c": "Oblique planes are inclined to both HP and VP."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"

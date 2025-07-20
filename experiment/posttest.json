@@ -9,8 +9,10 @@
         "c": "(r/R) × 360°",
         "d": "(R/r) × 180°"
       },
+      "explanations": {
+        "c": "The angle subtended at the center is given by (r/R) × 360°, where r is the radius of the generating circle and R is the radius of the directing circle."
+      },
       "correctAnswer": "c",
-      "explanation": "The angle subtended at the center is given by (r/R) × 360°, where r is the radius of the generating circle and R is the radius of the directing circle.",
       "difficulty": "beginner"
     },
     {
@@ -21,8 +23,10 @@
         "c": "2",
         "d": "Equal"
       },
+      "explanations": {
+        "b": "The arc length of one complete cycloid is 8 times the radius of the generating circle."
+      },
       "correctAnswer": "b",
-      "explanation": "The arc length of one complete cycloid is 8 times the radius of the generating circle.",
       "difficulty": "beginner"
     },
     {
@@ -31,8 +35,10 @@
         "a": "True",
         "b": "False"
       },
+      "explanations": {
+        "a": "Gear teeth are formed using hypocycloid curves for the root and epicycloid curves for the outer portion of the tooth."
+      },
       "correctAnswer": "a",
-      "explanation": "Gear teeth are formed using hypocycloid curves for the root and epicycloid curves for the outer portion of the tooth.",
       "difficulty": "intermediate"
     },
     {
@@ -41,10 +47,12 @@
         "a": "Point",
         "b": "Line",
         "c": "Epicycloid",
-        "d": "None of the above"
+        "d": "Circle"
+      },
+      "explanations": {
+        "b": "When the generating circle is half the size of the directing circle, the resulting hypocycloid is a straight line."
       },
       "correctAnswer": "b",
-      "explanation": "When the generating circle is half the size of the directing circle, the resulting hypocycloid is a straight line.",
       "difficulty": "intermediate"
     },
     {
@@ -53,10 +61,12 @@
         "a": "56°",
         "b": "85°",
         "c": "72°",
-        "d": "90"
+        "d": "90°"
+      },
+      "explanations": {
+        "c": "Using the formula: (r/R) × 360° = (30/150) × 360 = 72°."
       },
       "correctAnswer": "c",
-      "explanation": "Using the formula: (r/R) × 360° = (30/150) × 360 = 72°.",
       "difficulty": "advanced"
     },
     {
@@ -65,10 +75,12 @@
         "a": "Cycloid",
         "b": "Epicycloid",
         "c": "Hypocycloid",
-        "d": "None of the above"
+        "d": "Cardioid"
+      },
+      "explanations": {
+        "b": "A circle rolling outside another circle generates an epicycloid."
       },
       "correctAnswer": "b",
-      "explanation": "A circle rolling **outside** another circle generates an **epicycloid**.",
       "difficulty": "advanced"
     }
   ]
